@@ -5,7 +5,7 @@ Copyright (C) 2017 Алексей "FoxyLab" Воронин<br/>
 Сайт:  https://acdc.foxylab.com<br/>
 Это программное обеспечение распространяется под лицензией GPL v3.0.<br/><br/>
 Подробное описание эмулятора - https://acdc.foxylab.com/node/76<br/><br/><br/>
-<i>cpm4nano</i> - i8080 & CP/M emulator for Arduino Nano.<br/><br/>
+<i>cpm4nano</i> - i8080 & CP/M emulator for Arduino Nano.<br/>
 Version 1<br/><br/>
 Copyright (C) 2017 Alexey "FoxyLab" Voronin<br/>
 Email:    support@foxylab.com<br/>
